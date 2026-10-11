@@ -11,7 +11,7 @@
 
 通用组播列表永久地址
 - [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
-
+https://raw.githubusercontent.com/iefile-lab/Beijing-IPTV/refs/heads/master/IPTV-Unicom-Multicast.m3u
 ------------
 
 ## 北京移动的IPTV节目列表
@@ -21,7 +21,7 @@
 
 通用组播列表永久地址
 - [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u")
-- https://raw.githubusercontent.com/iefile-lab/Beijing-IPTV/refs/heads/master/IPTV-Unicom-Multicast.m3u
+
 
 ------------
 
