@@ -11,6 +11,7 @@
 
 通用组播列表永久地址
 - [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
+
 https://raw.githubusercontent.com/iefile-lab/Beijing-IPTV/refs/heads/master/IPTV-Unicom-Multicast.m3u
 ------------
 
